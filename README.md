@@ -1,0 +1,2 @@
+# Boston-house-price-predictions-using-Random-Forest-Regression
+My project predicts Boston house prices using Random Forest Regression model. Using the Boston Housing dataset involves data cleaning, feature engineering, and model selection. Evaluation metrics include mean squared error and R-squared value. The code is in Python, and popular data science libraries such as Pandas and Scikit-learn are used
